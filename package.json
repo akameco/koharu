@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "csv-parse": "^1.0.0",
-    "kuromoji": "0.0.4"
+    "kuromoji": "0.0.4",
+    "nedb": "^1.2.1"
   }
 }
