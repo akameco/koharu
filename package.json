@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/akameco/koharu#readme",
   "devDependencies": {
-    "babel": "^5.8.23"
+    "babel": "^6.23.0"
   },
   "dependencies": {
-    "csv-parse": "^1.0.0",
-    "kuromoji": "0.0.4",
+    "csv-parse": "^2.0.4",
+    "kuromoji": "0.1.1",
     "nedb": "^1.2.1"
   }
 }
